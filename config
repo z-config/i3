@@ -218,5 +218,5 @@ bindsym $mod+Ctrl+Shift+F11 exec setxkbmap -layout us
 bindsym $mod+Ctrl+Shift+F12 exec setxkbmap -layout ir
 
 # autostart
-exec_always --no-startup-id safeeyes
+exec_always --no-startup-id stretchly
 
